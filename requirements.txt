@@ -1,7 +1,4 @@
 streamlit
 pandas
-LogisticRegression
-NearestNeighbors
-matplotlib.pyplot
-sklearn.linear_model
-sklearn.neighbors
+scikit-learn
+matplotlib
